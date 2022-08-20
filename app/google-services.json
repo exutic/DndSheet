@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456448585916",
+    "project_id": "mrwindowusers-640f4",
+    "storage_bucket": "mrwindowusers-640f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456448585916:android:f2cfb06b844acbd7cca0b9",
+        "android_client_info": {
+          "package_name": "com.example.dd_chsheet_jc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456448585916-kpp0ku0smi50pcgrfpccu6257opdq6p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZzEY_j7a1zrtsxsf_95wYfdmQOrsFJ7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456448585916-kpp0ku0smi50pcgrfpccu6257opdq6p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
